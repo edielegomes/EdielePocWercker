@@ -1,0 +1,14 @@
+C:\Users\bruno.monteiro\GitHub\MicroservicesCICD\back-end\src\Rakuten.TeamService.Api\bin\Debug\netcoreapp2.2\Rakuten.TeamService.Api.deps.json
+C:\Users\bruno.monteiro\GitHub\MicroservicesCICD\back-end\src\Rakuten.TeamService.Api\bin\Debug\netcoreapp2.2\Rakuten.TeamService.Api.runtimeconfig.json
+C:\Users\bruno.monteiro\GitHub\MicroservicesCICD\back-end\src\Rakuten.TeamService.Api\bin\Debug\netcoreapp2.2\Rakuten.TeamService.Api.runtimeconfig.dev.json
+C:\Users\bruno.monteiro\GitHub\MicroservicesCICD\back-end\src\Rakuten.TeamService.Api\bin\Debug\netcoreapp2.2\Rakuten.TeamService.Api.dll
+C:\Users\bruno.monteiro\GitHub\MicroservicesCICD\back-end\src\Rakuten.TeamService.Api\bin\Debug\netcoreapp2.2\Rakuten.TeamService.Api.pdb
+C:\Users\bruno.monteiro\GitHub\MicroservicesCICD\back-end\src\Rakuten.TeamService.Api\obj\Debug\netcoreapp2.2\Rakuten.TeamService.Api.csprojAssemblyReference.cache
+C:\Users\bruno.monteiro\GitHub\MicroservicesCICD\back-end\src\Rakuten.TeamService.Api\obj\Debug\netcoreapp2.2\Rakuten.TeamService.Api.csproj.CoreCompileInputs.cache
+C:\Users\bruno.monteiro\GitHub\MicroservicesCICD\back-end\src\Rakuten.TeamService.Api\obj\Debug\netcoreapp2.2\Rakuten.TeamService.Api.RazorAssemblyInfo.cache
+C:\Users\bruno.monteiro\GitHub\MicroservicesCICD\back-end\src\Rakuten.TeamService.Api\obj\Debug\netcoreapp2.2\Rakuten.TeamService.Api.RazorAssemblyInfo.cs
+C:\Users\bruno.monteiro\GitHub\MicroservicesCICD\back-end\src\Rakuten.TeamService.Api\obj\Debug\netcoreapp2.2\Rakuten.TeamService.Api.AssemblyInfoInputs.cache
+C:\Users\bruno.monteiro\GitHub\MicroservicesCICD\back-end\src\Rakuten.TeamService.Api\obj\Debug\netcoreapp2.2\Rakuten.TeamService.Api.AssemblyInfo.cs
+C:\Users\bruno.monteiro\GitHub\MicroservicesCICD\back-end\src\Rakuten.TeamService.Api\obj\Debug\netcoreapp2.2\Rakuten.TeamService.Api.RazorTargetAssemblyInfo.cache
+C:\Users\bruno.monteiro\GitHub\MicroservicesCICD\back-end\src\Rakuten.TeamService.Api\obj\Debug\netcoreapp2.2\Rakuten.TeamService.Api.dll
+C:\Users\bruno.monteiro\GitHub\MicroservicesCICD\back-end\src\Rakuten.TeamService.Api\obj\Debug\netcoreapp2.2\Rakuten.TeamService.Api.pdb
