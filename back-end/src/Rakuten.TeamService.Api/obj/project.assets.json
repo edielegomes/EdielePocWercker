@@ -12086,11 +12086,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ediele.gomes\\Documents\\POC Wercker\\MicroservicesCICD-master\\back-end\\src\\Rakuten.TeamService.Api\\Rakuten.TeamService.Api.csproj",
+      "projectUniqueName": "C:\\Users\\ediele.gomes\\Documents\\mypocks\\EdielePocWercker\\back-end\\src\\Rakuten.TeamService.Api\\Rakuten.TeamService.Api.csproj",
       "projectName": "Rakuten.TeamService.Api",
-      "projectPath": "C:\\Users\\ediele.gomes\\Documents\\POC Wercker\\MicroservicesCICD-master\\back-end\\src\\Rakuten.TeamService.Api\\Rakuten.TeamService.Api.csproj",
+      "projectPath": "C:\\Users\\ediele.gomes\\Documents\\mypocks\\EdielePocWercker\\back-end\\src\\Rakuten.TeamService.Api\\Rakuten.TeamService.Api.csproj",
       "packagesPath": "C:\\Users\\ediele.gomes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ediele.gomes\\Documents\\POC Wercker\\MicroservicesCICD-master\\back-end\\src\\Rakuten.TeamService.Api\\obj\\",
+      "outputPath": "C:\\Users\\ediele.gomes\\Documents\\mypocks\\EdielePocWercker\\back-end\\src\\Rakuten.TeamService.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

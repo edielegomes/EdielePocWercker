@@ -18,7 +18,7 @@ namespace Rakuten.TeamService.Tests
             TeamsController controller = new TeamsController(new TemporaryTeamRepository());
             var rawTeams = (IEnumerable<Team>)(controller.GetAllTeams() as ObjectResult).Value;
             List<Team> teams = new List<Team>(rawTeams);
-            Assert.Equal(teams.Count, 1);            
+            Assert.Equal(teams.Count, 2);            
         }
 
         [Fact]
